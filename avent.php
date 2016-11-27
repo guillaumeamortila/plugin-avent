@@ -31,7 +31,7 @@ add_action( 'wp_enqueue_scripts', 'my_func_enqueue_scripts');
 		<img id='fond' src='http://chouky39.c.h.pic.centerblog.net/eb4ed31a.gif' alt='<?php _e("Christmas Gift","wp_text") ?>'>
 		<div id="txtavt">
 			<br>
-			<h3><?php _e("Avent is now","wp_text") ?></h3>
+			<h3><?php _e("Advent is now","wp_text") ?></h3>
 			<p><?php _e("Be patient, Christmas is coming !","wp_text") ?></p>
 			<p id="phrase"><?php _e("There are only","wp_text") ?><span id="days2go"></span><?php _e("days before Jesus born","wp_text") ?></p>
 		</div>

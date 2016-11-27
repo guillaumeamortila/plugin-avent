@@ -1,7 +1,6 @@
 jQuery(document).ready(function(){
 
-	//if ((month == 11) && (date < 26))
-	if (month == 10){
+	if ((month == 11) && (date < 26)){
 		checkCookieAvt();
 	}
 });
@@ -12,10 +11,9 @@ var date = new Date().getDate();
 var month = new Date().getMonth();
 
 var exp = new Date();
-//exp.setHours(23);
-//exp.setMinutes(59);
-//exp.setSeconds(59);
-exp.setSeconds(exp.getSeconds()+1);
+exp.setHours(23);
+exp.setMinutes(59);
+exp.setSeconds(59);
 exp = exp.toUTCString();
 
 

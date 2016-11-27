@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Avent\n"
-"POT-Creation-Date: 2016-11-27 23:24+0100\n"
-"PO-Revision-Date: 2016-11-27 23:26+0100\n"
+"POT-Creation-Date: 2016-11-27 23:40+0100\n"
+"PO-Revision-Date: 2016-11-27 23:41+0100\n"
 "Last-Translator: \n"
 "Language-Team: Guillaume\n"
 "Language: fr\n"
@@ -21,8 +21,8 @@ msgid "Christmas Gift"
 msgstr "Cadeau de Noël"
 
 #: avent.php:34
-msgid "Avent is now"
-msgstr "L’avent,<br>c’est maintenant"
+msgid "Advent is now"
+msgstr "L’avent,<br>c’est maintenant !"
 
 #: avent.php:35
 msgid "Be patient, Christmas is coming !"
@@ -35,6 +35,9 @@ msgstr "Plus que"
 #: avent.php:36
 msgid "days before Jesus born"
 msgstr "jours avant la naissance de Jésus"
+
+#~ msgid "Avent is now"
+#~ msgstr "L’avent,<br>c’est maintenant"
 
 #~ msgid "Avent is now !"
 #~ msgstr "L’avent, c’est maintenant !"
