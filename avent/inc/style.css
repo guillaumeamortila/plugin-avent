@@ -1,0 +1,98 @@
+/****** STRUCTURE POPUP *******/
+
+
+#popup-avent{
+	width:100%;
+	height:100vh;
+	background-color:rgba(0,0,0,0.16);
+	position:fixed;
+	top:0px;
+	left:0px;
+	display:none;
+	justify-content:center;
+	align-items:center;
+	font-family:arial;
+	z-index:10;
+	font-size: 1.32em;
+}
+
+#popup-avent-block{
+	position: relative;
+	width:500px;
+	height:380px;
+	background-color:white;
+	border-radius:30px;
+	box-shadow:0px 0px 200px rgba(0,0,0,0.3);
+	display:flex;
+	flex-direction: column;
+	justify-content:center;
+	align-items:center;
+	z-index:11;
+}
+
+#popup-close{
+	position:absolute;
+	top:15px;
+	right:25px;
+	z-index: 20;
+}
+
+#popup-close:hover{
+	color:rgb(150,150,150);
+	cursor: pointer;
+}
+
+
+/******** CONTENU POPUP *********/
+
+#popup-avent-block p{
+	width:380px;
+	text-align:center;
+	margin-bottom: 10px;
+}
+
+#popup-avent-block h3{
+	margin-bottom: 14px;
+	text-align: center;
+	font-size: 2em;
+	letter-spacing: 5px;
+	font-weight: normal;
+}
+
+#phrase{
+	font-size: 0.8em;
+	color: #888;
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+#txtavt{
+	display: none;
+}
+
+.pictkdo{
+	position: absolute;
+	left: 0px;
+	display:flex;
+}
+
+#kdoopen{
+	width: 88%;
+	left: 1%;
+	display: none;
+	z-index: 13;
+}
+#kdoclose{
+	width: 100%;
+	z-index: 14;
+	top: 40px;
+}
+
+#fond{
+	position: absolute;
+	left: 40px;
+	top: 40px;
+	display: none;
+	width: 170px;
+}
+

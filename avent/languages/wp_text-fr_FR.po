@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Avent\n"
+"POT-Creation-Date: 2016-11-27 23:24+0100\n"
+"PO-Revision-Date: 2016-11-27 23:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: Guillaume\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: avent.php\n"
+
+#: avent.php:29 avent.php:30 avent.php:31
+msgid "Christmas Gift"
+msgstr "Cadeau de Noël"
+
+#: avent.php:34
+msgid "Avent is now"
+msgstr "L’avent,<br>c’est maintenant"
+
+#: avent.php:35
+msgid "Be patient, Christmas is coming !"
+msgstr "Soyez patient, Noël arrive !"
+
+#: avent.php:36
+msgid "There are only"
+msgstr "Plus que"
+
+#: avent.php:36
+msgid "days before Jesus born"
+msgstr "jours avant la naissance de Jésus"
+
+#~ msgid "Avent is now !"
+#~ msgstr "L’avent, c’est maintenant !"
+
+#~ msgid "days before Jesus born !"
+#~ msgstr "jours avant la naissance de Jésus !"
+
+#~ msgid "Hello"
+#~ msgstr "Bonjour"
