@@ -1,2 +1,2 @@
 # plugin-avent
-Plugin Wordpress - Calendrier de l'avent
+Plugin Wordpress - Chaque jour de l'avent, un cadeau apparait à votre écran !
